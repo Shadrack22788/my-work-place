@@ -1,0 +1,445 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+}
+
+.div-1 {
+    display: flex;
+    background-color: #fff;
+    justify-content: right;
+    gap: 20px;
+}
+
+.hero {
+    display: grid;
+
+    background-image: url(./image1.png);
+    height: 900px;
+}
+
+.hero-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.s-1 {
+    display: grid;
+    margin: 200px 300px;
+    background-color: aliceblue;
+    padding: 30px;
+    width: 600px;
+}
+
+.b-1 {
+    display: flex;
+    border: 2px;
+    border-color: aliceblue;
+    border-radius: 90px;
+    background: #f0c5ce;
+    padding-top: 30px;
+    font-size: 20px;
+    width: 300px;
+    justify-content: center;
+    color: #a26773;
+}
+
+.h-3 {
+    display: flex;
+    font-size: 60px;
+}
+
+.copy {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    margin: 60px;
+    gap: 40px;
+}
+
+.about {
+    font-size: 20px;
+    padding: 40px;
+    margin-right: 200px;
+    line-height: 50px;
+}
+
+.image1 {
+    margin-left: 300px;
+    height: 447.59px;
+    width: 350px;
+}
+
+.send {
+    display: flex;
+    border: 2px;
+    border-color: aliceblue;
+    border-radius: 200px;
+    background-color: #f0c5ce;
+    color: #111;
+    padding: 30px;
+    font-size: 20px;
+    width: 300px;
+    align-items: center;
+    color: #a26773;
+    justify-content: center;
+}
+
+.lets {
+    color: #111;
+}
+
+
+.design {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 60px;
+    gap: 40px;
+}
+
+.almeda {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.celia {
+    display: flex;
+
+}
+
+.celia-1 {
+    background-color: #fff;
+    border-radius: 40px;
+}
+
+
+.Frank {
+    display: flex;
+
+}
+
+.nick {
+    display: flex;
+}
+
+
+.copy2 {
+    border-radius: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #f7a5a5;
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    margin-right: 12px;
+}
+
+.copy3 {
+    border-radius: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #f7a5a5;
+    width: 80px;
+    height: 80px;
+    margin-top: 30px;
+}
+
+#p-1 {
+    justify-content: center;
+}
+
+.email {
+    display: flex;
+    align-items: center;
+}
+
+.contact {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.email {
+    display: flex;
+    gap: 50px;
+    margin-left: 700px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.name {
+    border: none;
+    border-radius: 50px;
+    width: 200px;
+    padding: 20px;
+
+
+
+}
+
+.enter {
+    border: none;
+    border-radius: 50px;
+    width: 200px;
+    padding: 20px;
+}
+
+.Send {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+
+.enter {
+    display: flex;
+}
+
+.your {
+    display: flex;
+}
+
+.button {
+    display: flex;
+    border-radius: 200px;
+    background-color: #f0c5ce;
+    border-color: #f0c5ce;
+    width: 500px;
+    padding: 10px;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: 700px;
+    color: #6a4c53;
+
+
+}
+
+.h-1 {
+    color: #d9788d;
+}
+
+.div-1 {
+    font-size: 20px;
+    justify-content: end;
+
+}
+
+.from {
+    color: #111;
+}
+
+.almeda {
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 60px;
+}
+
+.tuyizere {
+    background-color: #fbf0f2;
+
+}
+
+.celia {
+    border-radius: 25px;
+}
+
+.h5 {
+    font-size: 20px;
+    background-image: url(./image\ copy\ 10.png);
+}
+
+.frank-1 {
+    background-color: #fff;
+    border-radius: 40px;
+}
+
+.nick-2 {
+    background-color: #fff;
+    border-radius: 40px;
+}
+
+.message {
+    font-size: 20px;
+}
+
+.enter {
+    border-radius: 50px;
+    font-size: 16px;
+    padding: 16px;
+}
+
+.label {
+    font-size: 16px;
+}
+
+.label-1 {
+    font-size: 16;
+}
+
+.name {
+    font-size: 16px;
+}
+
+
+.almeda {
+    margin-left: 350px;
+    margin-right: 350px;
+    gap: 50px;
+    font-size: 16px;
+    padding: 60px;
+}
+
+.devine {
+    margin-left: 100px;
+    display: flex;
+    color: #111;
+    font-size: 20px;
+}
+
+.s6 {
+    color: #111;
+    font-size: 20px;
+}
+
+
+.libero {
+    padding: 16px;
+    line-height: 40px;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+.h5 {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 45px;
+}
+
+.libero-1 {
+    padding: 16px;
+    line-height: 40px;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+.libero-2 {
+    padding: 16px;
+    line-height: 40px;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+
+.kinney {
+
+    border-radius: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #f7a5a5;
+    width: 70px;
+    height: 70px;
+    margin-top: 30px;
+    margin-right: 12px;
+}
+
+#div-9 {
+    justify-items: center;
+}
+
+.minim {
+    font-size: 60px;
+    padding-top: 60px;
+    margin-top: 60px;
+}
+
+.veniam {
+    font-size: 20px;
+}
+
+.studio {
+    margin-left: 200px;
+    padding-top: 120px;
+}
+
+.believe {
+    font-size: 60px;
+    margin: 21px 0px 0px;
+    color: #111;
+}
+
+.vision {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.promote {
+    display: flex;
+    border: 2px;
+    border-color: aliceblue;
+    border-radius: 90px;
+    background: #f7a5a5;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    width: 300px;
+    justify-content: center;
+}
+
+.unique {
+    background-color: #fff;
+}
+
+.cut {
+    margin-right: 200px;
+    padding-top: 60px;
+    height: 500px;
+    width: 600px;
+    ;
+}
+
+.welcome {
+    font-size: 60px;
+    margin: 20px 0px 0px;
+    margin-right: 1000px;
+}
+
+.about {
+    margin-right: 600px;
+}
+
+.h-0 {
+    margin-right: 30px;
+    font-size: 16px;
+}
+
+.h-1 {
+    margin-right: 30px;
+    font-size: 16px;
+}
+
+.h-2 {
+    margin-right: 300px;
+    font-size: 16px;
+}
+
+.logo-1 {
+    margin-right: 1000px;
+    height: 40px;
+    width: 50px;
+    padding-top: 10px;
+}
+
+.capilot {
+    color: #111;
+}
+
+.promote {
+    color: #a26773;
+    background-color: #f0c5ce;
+}

@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.charging{
+    display: grid;
+    grid-template-columns: repeat(2fr 1fr);
+    justify-items: center;
+    background-image: url(./image\ copy\ 13.png);
+    height: 100%;
+    margin: auto;
+}
